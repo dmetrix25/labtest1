@@ -1,0 +1,21 @@
+import numpy as np
+
+#emplyee information
+
+emplyee_name = np.array([], dtype=str )
+emplyee_salary = np.array([] ,dtype=float)
+emplyee_address = np.array([] , dtype=str)
+emplyee_performnce = np.array([], dtype=int)
+
+#enter attendance for each empolyee
+
+
+            
+
+#display avg salary,max salary & min salary
+
+def display_salary():
+    printf("\n average salary:")
+    printf("\n max salary:" )
+    prinf("\n min salary:")
+
